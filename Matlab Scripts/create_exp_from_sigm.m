@@ -11,6 +11,7 @@ function [exp_lin_interp] = create_exp_from_sigm(sigm_linear_interp, wl, fl)
 %   Exponential curve is directly built from sigmoid, Following equation
 %   Exp = (1/Sigmoid(-x))-1
 
+% Copyright (c) 2019
 
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 %                                                                         #

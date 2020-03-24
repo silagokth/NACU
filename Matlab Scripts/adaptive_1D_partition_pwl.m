@@ -11,6 +11,8 @@ function [partition, best_coeffs] = adaptive_1D_partition_pwl(wl, fl, num_interv
 %   selects the number of intervals. This algorithm works properly only for
 %   monotonically increasing functions like sigmoid or hyperbolic tangent.
 
+% Copyright (c) 2019
+
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 %                                                                         #
 %This file is part of SiLago.                                             #

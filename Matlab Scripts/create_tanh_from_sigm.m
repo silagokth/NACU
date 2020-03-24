@@ -13,6 +13,7 @@ function tanh_linear_interp = create_tanh_from_sigm(new_coeffs, input, partition
 %   Tanh curve is directly built by adjusting slopes and offsets from sigmoid, according to equation
 %   Tanh = 2Sigmoid(2x)-1
 
+% Copyright (c) 2019
 
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 %                                                                         #

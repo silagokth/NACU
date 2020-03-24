@@ -13,6 +13,7 @@ function [new_coeffs] = interpolate_sigmoid(input, partition, fl)
 %   identifies the combination yielding the lowest error for PWL implementation. The function gives
 %   out the set of slopes and offsets associated to each interval
 
+% Copyright (c) 2019
 
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 %                                                                         #

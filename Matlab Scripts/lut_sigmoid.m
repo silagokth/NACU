@@ -13,6 +13,7 @@ function [best_q] = lut_sigmoid(partition, wl, fl)
 %   identifies the value yielding the lowest error for LUT. The function gives
 %   out the set of offsets associated to each interval
 
+% Copyright (c) 2019
 
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 %                                                                         #

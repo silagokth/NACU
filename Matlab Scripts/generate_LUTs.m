@@ -12,6 +12,7 @@
 %   ['number of interval' values are only powers of 2 from 2^(ni_start) to 2^(ni_end)]
 %
 
+% Copyright (c) 2019
 
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 %                                                                         #

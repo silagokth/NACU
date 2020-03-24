@@ -11,6 +11,7 @@ function [partition] = adaptive_1D_partition(wl, fl, num_intervs)
 %   selects the number of intervals. This algorithm works properly only for
 %   monotonically increasing functions like sigmoid or hyperbolic tangent.
 
+% Copyright (c) 2019
 
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 %                                                                         #

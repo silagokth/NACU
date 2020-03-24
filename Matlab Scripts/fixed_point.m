@@ -5,6 +5,7 @@ function [output] = fixed_point(input, nb, frac_len)
 %   nb = bitwidth
 %   frac_len = number of fractional bits of fixed-point format
 
+% Copyright (c) 2019
 
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 %                                                                         #

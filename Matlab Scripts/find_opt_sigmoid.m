@@ -20,6 +20,7 @@
 %                         '0' to take results from compcoeff_compopt_n='1' and find the optimal 'ni' for each 'fl'
 %
 
+% Copyright (c) 2019
 
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 %                                                                         #

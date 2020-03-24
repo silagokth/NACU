@@ -4,6 +4,7 @@ function [output] = fixed_point_floor(input, frac_len)
 %   input = number to discretize
 %   frac_len = number of fractional bits of fixed-point format
 
+% Copyright (c) 2019
 
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 %                                                                         #
