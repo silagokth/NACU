@@ -22,16 +22,17 @@ NACU was developed by KTH and is part of the SiLago project.
  
 
 # LICENSE
+NACU is part of SiLago
 
-NACU is free software: you can redistribute it and/or modify   
+SiLago is free software: you can redistribute it and/or modify   
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or   
 (at your option) any later version.                                 
                                                                     
-NACU is distributed in the hope that it will be useful,        
+SiLago is distributed in the hope that it will be useful,        
 but WITHOUT ANY WARRANTY; without even the implied warranty of      
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the       
 GNU General Public License for more details.                 
                                                                     
 You should have received a copy of the GNU General Public License   
-along with NACU, see `COPYING` file.  If not, see <https://www.gnu.org/licenses/>. 
+along with SiLago, see `COPYING` file.  If not, see <https://www.gnu.org/licenses/>. 
