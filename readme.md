@@ -6,7 +6,7 @@ NACU was developed by KTH and is part of the SiLago project.
 
  The VHDL code, the logic and concepts described in this file constitute
  the intellectual property of the authors listed below, who are affiliated
- to KTH(Kungliga Tekniska HĂ¶gskolan), School of ICT, Kista.
+ to KTH(Kungliga Tekniska Högskolan), School of EECS, Kista.
  Any unauthorised use, copy or distribution is strictly prohibited.
  Any authorised use, copy or distribution should carry this copyright notice
  unaltered.
