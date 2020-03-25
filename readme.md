@@ -2,6 +2,10 @@
 This is the VHDL description and MATLAB scripts that used for the development of NACU.
 NACU was developed by KTH and is part of the SiLago project.
 
+NACU was developed as part of a CGRA fabric deticated for Neural Networks.
+
+The fabric RTL code will soon be available in a new repository.
+
 # Copyright (c) 2019
 
  The VHDL code, the logic and concepts described in this file constitute
